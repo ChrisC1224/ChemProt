@@ -1,3 +1,3 @@
 0# ChemProt
 
-detect relations between chemical compounds/drug and genes/proteins
+Automatically detect in running text(PubMed abstracts) relations between chemical compounds/drug and genes/proteins
